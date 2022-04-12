@@ -1,0 +1,16 @@
+vendor
+composer.lock
+wp
+wp-config.php
+.htaccess
+
+public/content/*
+!public/content
+
+public/content/themes/*
+!public/content/themes
+#!/content/themes/custom_theme
+
+public/content/plugins/*
+!public/content/plugins
+!public/content/plugins/ogalerie
